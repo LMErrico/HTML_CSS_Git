@@ -12,6 +12,8 @@ N/A
 
 ## Usage
 
+The URL to the page is https://lmerrico.github.io/HTML_CSS_Git/
+
 People with disabilities should use a screen reader to be able to use the page.
 
 ## License
